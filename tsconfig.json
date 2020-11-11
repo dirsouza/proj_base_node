@@ -22,5 +22,5 @@
     "resolveJsonModule": true,
     "pretty": true
   },
-  "include": ["src/**/*"]
+  "include": ["./src/**/*"]
 }
